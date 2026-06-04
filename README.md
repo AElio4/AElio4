@@ -11,8 +11,8 @@ Documenting my transition from technical field service to IT and security throug
 
 <h2>🔧 Projects & Labs:</h2>
 
-- <b>Pi-hole DNS lab</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Pi-hole DNS Lab</b>
+  - [Network-wide DNS Filtering & Troubleshooting](https://github.com/AElio4/pihole-dns-home-lab)
 - <b>Active Directory Lab</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>VLAN Segmentation</b>
