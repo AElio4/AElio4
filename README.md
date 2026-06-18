@@ -14,7 +14,7 @@ Documenting my transition from technical field service to IT and security throug
 - <b>Pi-hole DNS Lab</b>
   - [Network-wide DNS Filtering & Troubleshooting](https://github.com/AElio4/pihole-dns-home-lab)
 - <b>OPNsense Lab</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [OPNsense Firewall](https://github.com/AElio4/OPNsense-Firewall-Lab)
 - <b>Active Directory (up next)</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
